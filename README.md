@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, me llamo Franco Corniglione! 👋</h1>
+<h1 align="center">¡Hola, me llamo Franco Corniglione!👋😃</h1>
 <h3 align="center">Un apasionado desarrollador full-stack de Argentina</h3>
 
 <br />
