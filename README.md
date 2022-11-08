@@ -2,14 +2,11 @@
 <h3 align="center">Un apasionado desarrollador full-stack de Argentina</h3>
 
 <br />
-<h3 align="left">About Me</h3>
+<h3 align="left">Sobre mí</h3>
  
 <div align="center">
  Actualmente soy Técnico en Comunicación Social, faltándome sólo la tesis de grado para obtener la licenciatura. En los úlitmos años me he interesado y apasionado por las tecnologías en general y la programación en particular. Siento, sin duda, que este cambio de orientación fue muy acertado, por lo que estoy muy orgulloso y ansío enormemente seguir adentrándome y aprendiendo más sobre diferentes tecnologías y lenguajes de programación.
- Estoy buscando activamente mi primer trabajo, y cuento con disponibilidad para una relocalización si es que hiciera falta. Si estás interesado/a, puedes contactarme a través de:
-LinkedIn: https://www.linkedin.com/in/franco-corniglione/
-GitHub: https://www.github.com/Francormin
-Email: francocorniglione5@gmail.com</div>
+ Estoy buscando activamente mi primer trabajo, y cuento con disponibilidad para una relocalización si es que hiciera falta.
 <br />
 
 - 📫 Puedes escribirme a: **francocorniglione5@gmail.com**
