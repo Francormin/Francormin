@@ -5,6 +5,7 @@
 <h3 align="left">About Me</h3>
  
 <div align="center">I am currently a Technician in Social Communication, missing only the thesis to obtain my degree. In recent years I have been interested and passionate about technologies in general and programming in particular. I feel, without a doubt, that this change in orientation was very successful, for which I am very proud and I look forward to probably continuing to delve into and learn more about different technologies and programming languages. I am actively looking for my first job, and am available for relocation if needed.</div>
+<br />
 
 - 📫 How to reach me: **francocorniglione5@gmail.com**
 
