@@ -15,4 +15,4 @@
 
 <br />
 <h3 align="left">Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=francormin" />
+<img src="https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark" />
