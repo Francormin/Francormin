@@ -5,8 +5,7 @@
 <h3 align="left">Sobre mí</h3>
  
 <div align="center">
- Actualmente soy Técnico en Comunicación Social, faltándome sólo la tesis de grado para obtener la licenciatura. En los úlitmos años me he interesado y apasionado por las tecnologías en general y la programación en particular. Siento, sin duda, que este cambio de orientación fue muy acertado, por lo que estoy muy orgulloso y ansío enormemente seguir adentrándome y aprendiendo más sobre diferentes tecnologías y lenguajes de programación.
- Estoy buscando activamente mi primer trabajo, y cuento con disponibilidad para una relocalización si es que hiciera falta.
+ Actualmente soy Técnico en Comunicación Social, faltándome sólo la tesis de grado para obtener la licenciatura. En los úlitmos años me he interesado y apasionado por las tecnologías en general y la programación en particular. Siento, sin duda, que este cambio de orientación fue muy acertado, por lo que estoy muy orgulloso y ansío enormemente seguir adentrándome y aprendiendo más sobre diferentes tecnologías y lenguajes de programación. Estoy buscando activamente mi primer trabajo, y cuento con disponibilidad para una relocalización si es que hiciera falta.</div>
 <br />
 
 - 📫 Puedes escribirme a: **francocorniglione5@gmail.com**
