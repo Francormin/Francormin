@@ -1,5 +1,3 @@
-<img src="https://loading.io/asset/613897" />
-
 <h1 align="center">Hi, I'm Franco Corniglione 👋</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
