@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Franco Corniglione</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
+<h5>About Me</h5>
+ 
+I am currently a Technician in Social Communication, missing only the thesis to obtain my degree. In recent years I have been interested and passionate about technologies in general and programming in particular. I feel, without a doubt, that this change in orientation was very successful, for which I am very proud and I look forward to probably continuing to delve into and learn more about different technologies and programming languages. I am actively looking for my first job, and am available for relocation if needed.
+
 - 📫 How to reach me: **francocorniglione5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
