@@ -8,7 +8,7 @@
  Actualmente soy Técnico en Comunicación Social, faltándome sólo la tesis de grado para obtener la licenciatura. En los úlitmos años me he interesado y apasionado por las tecnologías en general y la programación en particular. Siento, sin duda, que este cambio de orientación fue muy acertado, por lo que estoy muy orgulloso y ansío enormemente seguir adentrándome y aprendiendo más sobre diferentes tecnologías y lenguajes de programación. Estoy buscando activamente mi primer trabajo, y cuento con disponibilidad para una relocalización si es que hiciera falta.</div>
 
 <h3 align="left">Contacto:</h3>
-<div display="flex">
+<div display="flex" flex-direction="row">
 <a href="https://linkedin.com/in/franco-corniglione/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-corniglione" height="30" width="30" />
 <a href="mailto:francocorniglione5@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="franco-corniglione" height="30" width="30" />
 </div>
