@@ -18,10 +18,10 @@
 <img src="/detail.png" width="400" height="200" />
 <img src="/creation.png" width="400" height="200" />
 </div>&nbsp;
-<div>PI Info</div>&nbsp;
+<div>PI Info Missing!</div>&nbsp;
 <h4>CoffeeStreet (larger project)</h4>
 <a href="https://coffee-street-front-end.vercel.app" target="_blank" rel="noreferrer">Try it Yourself!</a>
-<div>PF Info</div>&nbsp;
+<div>PF Info Missing!</div>&nbsp;
 
 <br />
 <br />
