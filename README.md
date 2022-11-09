@@ -11,7 +11,12 @@
 
 <br />
 <h3 align="left">Projects:</h3>&nbsp;
-<div align="center"></div>
+<div align="center">
+<img src="/landing.png" width="400" height="200" />
+<img src="/home.png" width="400" height="200" />
+<img src="/detail.png" width="400" height="200" />
+<img src="/creation.png" width="400" height="200" />
+</div>
 
 <br />
 <h3 align="left">Stats:</h3>&nbsp;
