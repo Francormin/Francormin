@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Franco!👋😃</h1>
-<h3 align="center">A passionate full-stack developer from Argentina ![image](https://user-images.githubusercontent.com/89218100/200713924-e6281943-e5e2-496f-8ffd-325a735fe382.png)
-</h3>
+<h3 align="center">A passionate full-stack developer from Argentina! <img src="https://emojigraph.org/media/72/google/flag-argentina_1f1e6-1f1f7.png" alt="arg-flag" width="30" height="30" /></h3>
 
 <br />
 <h3 align="left">About me:</h3>&nbsp;
@@ -14,10 +13,10 @@
 <h3 align="left">Projects:</h3>
 <h4>Countries App (small project)</h4>
 <div align="center">
-<img src="/landing.png" width="400" height="200" />
-<img src="/home.png" width="400" height="200" />
-<img src="/detail.png" width="400" height="200" />
-<img src="/creation.png" width="400" height="200" />
+<img src="/landing.png" width="400" height="200" alt="landing-page" />
+<img src="/home.png" width="400" height="200" alt="home-page" />
+<img src="/detail.png" width="400" height="200" alt="detail-page" />
+<img src="/creation.png" width="400" height="200" alt="creation-page" />
 </div>&nbsp;
 <div>PI Info Missing!</div>&nbsp;
 <h4>CoffeeStreet (larger project)</h4>
@@ -26,8 +25,8 @@
 
 <br />
 <h3 align="left">Stats:</h3>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francormin&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark" alt="status" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francormin&theme=dark" alt="status" />
 
 <br />
 <h3 align="left">:paperclip: Contact:</h3>&nbsp;
