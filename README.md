@@ -3,7 +3,7 @@
 
 <br />
 <h3 align="left">About me:</h3>&nbsp;
-<p align="center">I am currently a Technician in Social Communication, lacking only the thesis to obtain my degree. In recent years I have been interested about technologies in general and programming in particular. I feel that this change in orientation was very successful, for which I am very proud and I look forward to continuing to dig deeper and learn more about different technologies and programming languages. Besides, I have been graduated recently from the Full-Stack Development career at Henry's Bootcamp! And nowadays I am looking for my first tech job opportunity.</p>
+<p align="center">I am currently a Technician in Social Communication, lacking only the thesis to obtain my degree. In recent years, I have been interested about technologies in general and programming in particular. I feel that this change in orientation was very successful, for which I am very proud and I look forward to continuing to dig deeper and learn more about different technologies and programming languages. Besides, I have been graduated recently from the Full-Stack Development career at Henry's Bootcamp! And nowadays, I am looking for my first tech job opportunity.</p>
 
 <br />
 <h3 align="left">:star: Languages and Tools:</h3>&nbsp;
