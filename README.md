@@ -11,14 +11,14 @@
 
 <br />
 <h3 align="left">Projects:</h3>
-<h4>Countries App</h4>
+<h4>Countries App (small project)</h4>
 <div align="center">
 <img src="/landing.png" width="400" height="200" />
 <img src="/home.png" width="400" height="200" />
 <img src="/detail.png" width="400" height="200" />
 <img src="/creation.png" width="400" height="200" />
 </div>&nbsp;
-<h4>CoffeeStreet</h4>
+<h4>CoffeeStreet (larger project)</h4>
 <a href="https://coffee-street-front-end.vercel.app" target="_blank" rel="noreferrer">Try it Yourself!</a>
 
 <br />
