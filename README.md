@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Franco!👋😃</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+<h3 align="center">A passionate full-stack developer from Argentina ![image](https://user-images.githubusercontent.com/89218100/200713924-e6281943-e5e2-496f-8ffd-325a735fe382.png)
+</h3>
 
 <br />
 <h3 align="left">About me:</h3>&nbsp;
