@@ -11,7 +11,7 @@
 
 <br />
 <h3 align="left">Projects:</h3>&nbsp;
-<h2>Countries App</h2>
+<h4>Countries App</h4>
 <div align="center">
 <img src="/landing.png" width="400" height="200" />
 <img src="/home.png" width="400" height="200" />
