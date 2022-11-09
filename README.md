@@ -18,6 +18,8 @@
 <img src="/detail.png" width="400" height="200" />
 <img src="/creation.png" width="400" height="200" />
 </div>
+<h4>CoffeeStreet</h4>
+<a href="coffee-street-front-end.vercel.app">Deploy</a>
 
 <br />
 <h3 align="left">Stats:</h3>&nbsp;
