@@ -22,6 +22,7 @@
 <a href="https://coffee-street-front-end.vercel.app" target="_blank" rel="noreferrer">Try it Yourself!</a>
 
 <br />
+<br />
 <h3 align="left">Stats:</h3>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francormin&theme=dark" />
