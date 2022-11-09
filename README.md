@@ -19,7 +19,7 @@
 <img src="/creation.png" width="400" height="200" />
 </div>
 <h4>CoffeeStreet</h4>
-<a href="coffee-street-front-end.vercel.app">Deploy</a>
+<a href="https://coffee-street-front-end.vercel.app" target="_blank" rel="noreferrer">Deploy</a>
 
 <br />
 <h3 align="left">Stats:</h3>&nbsp;
@@ -29,6 +29,6 @@
 <br />
 <h3 align="left">:paperclip: Contact:</h3>&nbsp;
 <p align="left">
-  <a href="https://linkedin.com/in/franco-corniglione/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-corniglione" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:francocorniglione5@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="franco-corniglione" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/franco-corniglione/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-corniglione" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:francocorniglione5@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="franco-corniglione" height="40" width="40" /></a>
 </p>
