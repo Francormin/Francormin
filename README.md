@@ -7,6 +7,7 @@
 <br>
 
 ✔️ Skills: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, Sequelize, Prisma
+
 🌱 I am very interested in learning and incorporated new technologies, such as TypeScript, Next.js and MongoDB.
 
 ## 🔗 Contact
