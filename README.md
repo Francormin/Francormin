@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Franco! 😀</h1>
 <h2 align="center">🚀 A passionate full stack developer from Argentina! 🚀</h2>
-<img src="https://github.com/Francormin/Francormin/blob/main/assets/personal-gif.gif" alt="gif" />
+<img src="https://github.com/Francormin/Francormin/blob/main/assets/profile-gif.gif" alt="gif" />
 
 ## 👨‍💻 About Me
 <p align="center">I am currently a Technician in Social Communication, it only remains the final thesis to obtain the bachelor's degree. In recent years, I have been interested in technologies in general and programming in particular. I feel that this orientation change was very successful, for which I am very proud and I look forward to learn more about different technologies and programming languages. Besides, I have been graduated recently from the Full-Stack Development career at Henry's Bootcamp! And nowadays, I am looking for my first tech job opportunity.</p>
