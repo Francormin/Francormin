@@ -11,6 +11,7 @@
 
 <br />
 <h3 align="left">Stats:</h3>&nbsp;
+[![Francormin's GitHub stats](https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark)](https://github.com/francormin/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark" alt="status" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francormin&theme=dark" alt="status" />
 
