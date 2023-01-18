@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Franco!👋😃</h1>
 <h3 align="center">A passionate full-stack developer from Argentina! <img src="https://emojigraph.org/media/72/google/flag-argentina_1f1e6-1f1f7.png" alt="arg-flag" width="30" height="30" /></h3>
 
-<img src="https://github.com/Francormin/Francormin/blob/main/assets/personal-gif1.gif" alt="gif" />
+<img src="https://github.com/Francormin/Francormin/blob/main/assets/personal-gif.gif" alt="gif" />
 
 <br />
 <h3 align="left">About me:</h3>&nbsp;
