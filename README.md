@@ -11,8 +11,8 @@
 
 <br />
 <h3 align="left">Stats:</h3>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=francormin&show_icons=true&theme=dark" alt="status" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francormin&theme=dark" alt="status" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=francormin&show_icons=true&theme=dark" alt="status" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=francormin&theme=dark" alt="status" />
 
 <br />
 <h3 align="left">:paperclip: Contact:</h3>&nbsp;
