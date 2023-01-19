@@ -8,7 +8,7 @@
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, Sequelize, Prisma
 
-🤓 I am very interested in learning and incorporating new technologies, such as TypeScript, Next.js and MongoDB.
+🤓 I am very interested in learning and incorporating new technologies, such as TypeScript, Next.js, MongoDB and Bootstrap.
 
 ## 🔗 Contact
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="60">](https://www.linkedin.com/in/franco-corniglione/)
