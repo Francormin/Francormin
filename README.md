@@ -8,7 +8,7 @@
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, Sequelize, Prisma
 
-🌱 I’m currently learning Bootstrap and SASS.
+🌱 I’m currently learning Bootstrap and Sass.
 
 🤓 I’m very interested in learning and incorporating new technologies, such as TypeScript, Next.js, MongoDB and Tailwind CSS.
 
