@@ -17,7 +17,7 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="60">](mailto:francocorniglione5@gmail.com)
 <br>
 
-## 💻 Languages and Tools
+## 💻 Languages, Libraries and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,redux,postgres,prisma,git,github,vscode,figma)](https://skillicons.dev)
 <br>
 
