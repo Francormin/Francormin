@@ -18,7 +18,7 @@
 <br>
 
 ## 💻 Languages, Libraries and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,redux,postgres,sequelize,prisma,git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,redux,postgres,sequelize,prisma,git,github,vscode,postman,figma)](https://skillicons.dev)
 <br>
 
 ## 📈 Stats
