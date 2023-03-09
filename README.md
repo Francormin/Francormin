@@ -3,7 +3,7 @@
 <img src="https://github.com/Francormin/Francormin/blob/main/assets/profile-gif.gif" alt="gif" />
 
 ## 👨‍💻 About Me
-<p align="center">After four years of study at Universidad Nacional de Córdoba, I currently have an associate's degree in Social Communication, and it only remains the final thesis to obtain my bachelor's degree. In recent years, I have been interested in technologies in general and programming in particular. I feel that this orientation change was very successful, for which I am very proud and I look forward to learn more about different technologies and programming languages. Besides, I have been graduated recently from the Full-Stack Web Development career at Henry’s Bootcamp! And nowadays, I am looking for my first tech job opportunity.</p>
+<p align="center">After four years of studies at Universidad Nacional de Córdoba, I currently have an associate's degree in Social Communication, and it only remains the final thesis to obtain my bachelor's degree. In recent years, I have been interested in technologies in general and programming in particular. I feel that this orientation change was very successful, for which I am very proud and I look forward to learn more about different technologies and programming languages. Besides, I have been graduated recently from the Full-Stack Web Development career at Henry’s Bootcamp! And nowadays, I am looking for my first tech job opportunity.</p>
 <br>
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, Sequelize, Prisma
