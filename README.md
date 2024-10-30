@@ -8,18 +8,18 @@
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, Sequelize, Prisma, Mongoose
 
-📚 Basic knowledge: TypeScript, Apollo GraphQL, Docker, React Native, Bootstrap
+📚 Basic knowledge: TypeScript, Apollo GraphQL, Docker, React Native, Bootstrap, Sass
 
 <details>
 
-<summary>🌱 I’m currently learning <b>Java</b> language and its related technologies / libraries:</summary>
+<summary>🌱 I’m currently learning <b>Java</b> language and its related technologies:</summary>
 
 ###
 ➜ JDBC
 
 ➜ H2
 
-➜ JUnit 5 Jupiter
+➜ JUnit 5
 
 ➜ Mockito
 
@@ -34,7 +34,19 @@
 
 </details>
 
-🤓 I’m very interested in learning and incorporating new technologies, such as NestJS, Next.js, Sass and Tailwind CSS.
+<details>
+
+<summary>🤓 I’m very interested in learning and incorporating new frameworks, like these ones:</summary>
+
+###
+➜ NestJS
+
+➜ Next.js
+
+➜ Tailwind CSS
+###
+
+</details>
 
 ## 🔗 Contact
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="60">](https://www.linkedin.com/in/franco-corniglione/)
