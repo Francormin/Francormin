@@ -15,21 +15,21 @@
 <summary>🌱 I’m currently learning <b>Java</b> language and its related technologies:</summary>
 
 ###
-➜ JDBC
+╰⪼ JDBC
 
-➜ H2
+╰⪼ H2
 
-➜ JUnit 5
+╰⪼ JUnit 5
 
-➜ Mockito
+╰⪼ Mockito
 
-➜ Spring Boot
+╰⪼ Spring Boot
 
-➜ Spring Data JPA
+╰⪼ Spring Data JPA
 
-➜ Hibernate
+╰⪼ Hibernate
 
-➜ Maven
+╰⪼ Maven
 ###
 
 </details>
@@ -39,11 +39,11 @@
 <summary>🤓 I’m very interested in learning and incorporating new frameworks, such as:</summary>
 
 ###
-➜ NestJS
+╰⪼ NestJS
 
-➜ Next.js
+╰⪼ Next.js
 
-➜ Tailwind CSS
+╰⪼ Tailwind CSS
 ###
 
 </details>
