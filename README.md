@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>🤓 I’m very interested in learning and incorporating new frameworks, like these ones:</summary>
+<summary>🤓 I’m very interested in learning and incorporating new frameworks, such as:</summary>
 
 ###
 ➜ NestJS
