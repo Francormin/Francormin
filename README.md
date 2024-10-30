@@ -8,7 +8,7 @@
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, Sequelize, Prisma, Mongoose
 
-📚 Basic knowledge of TypeScript, Apollo GraphQL, React Native and Bootstrap.
+📚 Basic knowledge: TypeScript, Apollo GraphQL, Docker, React Native, Bootstrap
 
 <details>
 
