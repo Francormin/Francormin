@@ -34,7 +34,7 @@
 
 </details>
 
-🤓 I’m very interested in learning and incorporating new technologies, such as Next.js, Sass and Tailwind CSS.
+🤓 I’m very interested in learning and incorporating new technologies, such as NestJS, Next.js, Sass and Tailwind CSS.
 
 ## 🔗 Contact
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="60">](https://www.linkedin.com/in/franco-corniglione/)
