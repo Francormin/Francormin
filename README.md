@@ -8,7 +8,31 @@
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, Sequelize, Prisma, Mongoose
 
-🌱 I’m currently learning TypeScript, Apollo GraphQL, React Native and Bootstrap.
+📚 Basic knowledge of TypeScript, Apollo GraphQL, React Native and Bootstrap.
+
+<details>
+
+<summary>🌱 I’m currently learning <b>Java</b> language and its related technologies / libraries:</summary>
+
+###
+➜ JDBC
+
+➜ H2
+
+➜ JUnit 5 Jupiter
+
+➜ Mockito
+
+➜ Spring Boot
+
+➜ Spring Data JPA
+
+➜ Hibernate
+
+➜ Maven
+###
+
+</details>
 
 🤓 I’m very interested in learning and incorporating new technologies, such as Next.js, Sass and Tailwind CSS.
 
