@@ -16,7 +16,7 @@
 
 <details>
 
-<summary>🌱 I’m currently learning <b>Java</b> language and its related technologies:</summary>
+<summary>🌱 I’m currently learning <b>Java</b> programming language and its related technologies:</summary>
 
 ###
 ╰⪼ JDBC
