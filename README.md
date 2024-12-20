@@ -3,7 +3,11 @@
 <img src="https://github.com/Francormin/Francormin/blob/main/assets/profile-gif.gif" alt="gif" />
 
 ## 👨‍💻 About Me
-<p align="center">After four years of study at Universidad Nacional de Córdoba, I currently have an associate's degree in Social Communication, and I only have the final thesis left to obtain my bachelor's degree. In recent years, I have been interested in technologies in general and programming in particular. I feel that this orientation change was very successful, for which I am very proud and I look forward to learn more about different technologies and programming languages. Besides, I have graduated last year from the Full-Stack Web Development career at Henry’s Bootcamp! And nowadays, I am looking for my first tech job opportunity.</p>
+<p align="center">I hold an associate's degree in Social Communication from Universidad Nacional de Córdoba, with only my final thesis pending to complete my bachelor's degree. Over the past few years, I’ve developed a strong passion for technology, especially programming, which led me to make a career shift that I am incredibly proud of.</p>
+
+<p align="center">To further solidify this transition, I successfully completed the Full-Stack Web Development program at Henry's bootcamp, where I gained hands-on experience in JavaScript and its ecosystem of technologies.</p>
+
+<p align="center">Now, I am eager to apply my skills and continue growing as I search for my first opportunity in the tech industry.</p>
 <br>
 
 ✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, Sequelize, Prisma, Mongoose
@@ -54,7 +58,7 @@
 <br>
 
 ## 💻 Languages, Libraries and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,redux,postgres,mongodb,sequelize,prisma,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,redux,postgres,mongodb,sequelize,prisma,git,github,vscode,postman,idea&perline=8)](https://skillicons.dev)
 <br>
 
 ## 📈 Stats
