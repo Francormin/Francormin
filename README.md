@@ -10,47 +10,11 @@
 <p align="center">Now, I am eager to apply my skills and continue growing as I search for my first opportunity in the tech industry.</p>
 <br>
 
-✔️ Tech Stack: JavaScript, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, Sequelize, Prisma, Mongoose
+✔️ Tech Stack: JavaScript, Java, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, H2, Sequelize, Prisma, Mongoose, Hibernate
 
 📚 Basic knowledge: TypeScript, Apollo GraphQL, Docker, React Native, Bootstrap, Sass
 
-<details>
-
-<summary>🌱 I’m currently learning <b>Java</b> programming language and its related technologies:</summary>
-
-###
-╰⪼ JDBC
-
-╰⪼ H2
-
-╰⪼ JUnit 5
-
-╰⪼ Mockito
-
-╰⪼ Spring Boot
-
-╰⪼ Spring Data JPA
-
-╰⪼ Hibernate
-
-╰⪼ Maven
-###
-
-</details>
-
-<details>
-
-<summary>🤓 I’m very interested in learning and incorporating new frameworks, such as:</summary>
-
-###
-╰⪼ NestJS
-
-╰⪼ Next.js
-
-╰⪼ Tailwind CSS
-###
-
-</details>
+🤓 I’m very interested in learning and incorporating new frameworks, such as: NestJS, Next.js, Tailwind CSS
 
 ## 🔗 Contact
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="60">](https://www.linkedin.com/in/franco-corniglione/)
@@ -58,7 +22,7 @@
 <br>
 
 ## 💻 Languages, Libraries and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,redux,postgres,mongodb,sequelize,prisma,git,github,vscode,postman,idea&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,nodejs,express,react,redux,postgres,mongodb,sequelize,prisma,hibernate,maven,git,github,postman,vscode,idea,androidstudio&perline=4)](https://skillicons.dev)
 <br>
 
 ## 📈 Stats
