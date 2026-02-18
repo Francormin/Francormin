@@ -32,7 +32,5 @@ Actualmente busco mi **primera oportunidad profesional como desarrollador junior
 
 ## 🔗 Contacto
 
-[<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="60">](https://www.linkedin.com/in/franco-corniglione/)
-
-
+[LinkedIn](https://www.linkedin.com/in/franco-corniglione)  
 📧 [francocorniglione5@gmail.com](mailto:francocorniglione5@gmail.com)
