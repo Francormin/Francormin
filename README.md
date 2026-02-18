@@ -1,33 +1,36 @@
-<h1 align="center">👋 Hi there, I’m Franco! 😀</h1>
-<h2 align="center">🚀 A passionate full stack developer from Argentina! 🚀</h2>
-<img src="https://github.com/Francormin/Francormin/blob/main/assets/profile-gif.gif" alt="gif" />
+<h1 align="center">👋 Hola, soy Franco Corniglione</h1>
+<h3 align="center">Desarrollador Full Stack con foco en Backend</h3>
 
-## 👨‍💻 About Me
-<p align="center">I hold an associate's degree in Social Communication from Universidad Nacional de Córdoba, with only my final thesis pending to complete my bachelor's degree. Over the past few years, I’ve developed a strong passion for technology, especially programming, which led me to make a career shift that I am incredibly proud of.</p>
+---
 
-<p align="center">To further solidify this transition, I successfully completed the Full-Stack Web Development program at Henry's bootcamp, where I gained hands-on experience in JavaScript and its ecosystem of technologies.</p>
+## 👨‍💻 Sobre mí
 
-<p align="center">Now, I am eager to apply my skills and continue growing as I search for my first opportunity in the tech industry.</p>
-<br>
+Desarrollador orientado al backend, especializado en **Node.js, Express y bases de datos SQL/NoSQL**.
+Experiencia desarrollando **APIs REST, autenticación con JWT e integración de servicios externos**.
 
-✔️ Tech Stack: JavaScript, Java, HTML, CSS, Node.js, Express, React, Redux, PostgreSQL, MongoDB, H2, Sequelize, Prisma, Mongoose, Hibernate
+Actualmente busco mi **primera oportunidad profesional como desarrollador junior** para seguir creciendo y aportar solidez técnica.
 
-📚 Basic knowledge: TypeScript, Apollo GraphQL, Docker, React Native, Bootstrap, Sass
+---
 
-🤓 I’m very interested in learning and incorporating new frameworks, such as: NestJS, Next.js, Tailwind CSS
+## 🚀 Stack principal
 
-## 🔗 Contact
-[<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin" height="60">](https://www.linkedin.com/in/franco-corniglione/)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="60">](mailto:francocorniglione5@gmail.com)
-<br>
+**Lenguaje:** JavaScript  
+**Backend:** Node.js, Express, PostgreSQL, MongoDB, Sequelize, Prisma, Mongoose  
+**Frontend:** HTML, CSS, React, Redux  
+**Herramientas:** Git, GitHub, VS Code, Postman  
 
-## 💻 Languages, Libraries and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,java,html,css,nodejs,express,react,redux,postgres,mongodb,sequelize,prisma,hibernate,maven,git,github,postman,vscode,idea,androidstudio&perline=4)](https://skillicons.dev)
-<br>
+---
 
-## 📈 Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Francormin&theme=dark)
+## 📌 Proyectos destacados
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=francormin&show_icons=true&theme=dark)
+- 🍽️ **CookMeal** – API REST con integración OpenAI y Stripe
+- 🎮 **The Question** – Plataforma de trivia en tiempo real con Socket.io
+- 🐶 **MascotApp** – App mobile con React Native y backend REST
+- ☕ **Coffee Street** – E-commerce con autenticación Auth0 y Mercado Pago
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Francormin&theme=dark)
+---
+
+## 🔗 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/franco-corniglione/)  
+📩 francocorniglione5@gmail.com
